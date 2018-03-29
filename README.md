@@ -11,3 +11,6 @@ Please compare this code to the one found at:
 https://github.com/moustacheminer/travis-proof-discord
 
 For an example, please visit the latest commit for the Travis CI build information.
+
+For help setting up, hit me up here:
+https://discordapp.com/invite/wHgdmf4
