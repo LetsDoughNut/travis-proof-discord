@@ -1,0 +1,12 @@
+dist: trusty
+sudo: false
+
+language: node_js
+node_js:
+  - node
+
+install:
+  - npm i
+
+script:
+  - node index

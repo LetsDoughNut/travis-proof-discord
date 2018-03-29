@@ -1,0 +1,23 @@
+{
+  "name": "travis-proof-discord",
+  "version": "1.0.0",
+  "description": "This is a Travis \"proof\". This code executes a known code with a secret that only Travis CI holds",
+  "main": "index.js",
+  "dependencies": {
+    "eris": "^0.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moustacheminer/travis-proof-discord.git"
+  },
+  "author": "Moustacheminer Server Services",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moustacheminer/travis-proof-discord/issues"
+  },
+  "homepage": "https://github.com/moustacheminer/travis-proof-discord#readme"
+}
