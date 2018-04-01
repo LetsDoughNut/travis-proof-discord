@@ -1,7 +1,7 @@
 const Eris = require('eris');
 
 const client = new Eris(process.env.TEST_TOKEN, {
-    maxShards: 'auto'
+    maxShards: 64
 });
 
 console.log(`
